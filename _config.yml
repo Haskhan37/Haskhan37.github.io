@@ -1,11 +1,11 @@
 # Site settings
 author: Hasan Khan
-title: 
+title: 1st Mile 
 header-img: img/home-bg.png
 email: hassankhankabacha@gmail.com
 copyright_name: Hasan Khan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why did I chose Software Engineering?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Haskhan37
